@@ -46,7 +46,7 @@ EmailGeneratorProject/
 
 ### **1. Clonez le dépôt**
 ```bash
-git clone <url-du-dépôt>
+git clone https://github.com/Marc1T/GenerateurAutomatiqueDeTexteEnJavaGPT.git
 cd EmailGeneratorProject
 ```
 
