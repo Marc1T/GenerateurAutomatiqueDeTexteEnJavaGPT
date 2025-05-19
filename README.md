@@ -1,4 +1,3 @@
-```markdown
 # 📧 Générateur d'emails professionnels
 
 ## 🔎 Aperçu
