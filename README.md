@@ -87,7 +87,7 @@ mvn javafx:run
 ---
 
 ## 🎗️ Remerciements
-Un grand merci à **Ravel** pour avoir fourni la **clé API OpenAI**, essentielle à la réalisation de ce projet. 🙌
+Un grand merci à [**Ravel**](https://github.com/Ravel226) pour avoir fourni la **clé API OpenAI**, essentielle à la réalisation de ce projet. 🙌
 
 ---
 
